@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="register" type="id" />
+    <item name="login" type="id" />
+    <item name="nav_home" type="id" />
+    <item name="nav_search" type="id" />
+    <item name="hash_tag" type="id" />
+    <item name="no_of_posts" type="id" />
+</resources>

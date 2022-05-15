@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388920923162",
+    "project_id": "fir-insta-7cd36",
+    "storage_bucket": "fir-insta-7cd36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388920923162:android:8487eeed2afd07472b2da3",
+        "android_client_info": {
+          "package_name": "com.example.firebaseinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388920923162-m3cnrhssg70oiq3b31ea2l1g139bpohv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseinsta",
+            "certificate_hash": "fd4e53520c0712ce178b7f205dafc5836bf61a12"
+          }
+        },
+        {
+          "client_id": "388920923162-vk4t8a2erfk9h3he4qdafgr25kiqf3dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_zs4SwpWia9PJO3xHkTnCxeFB1ahkdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388920923162-vk4t8a2erfk9h3he4qdafgr25kiqf3dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
